@@ -2,10 +2,11 @@ package com.edurekademo.utilities;
 
 import static org.junit.Assert.*;
 
-import com.edurekademo.utilities.HexAsciiConvertor;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.devopsdemo.utilities.HexAsciiConvertor;
 
 
 public class TestHexAsciiConversion {
