@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.devopsdemo.utilities;
 
 import java.io.IOException;
 
